@@ -1,5 +1,5 @@
 % Requires MODEL2POINT output as "Points"
-% Requires distances.m output as "GefilterteFilemente"
+% Requires distances.m output as "GefilterteFilamente"
 
 MicrotubuleStart=2700000;
 while Points{MicrotubuleStart,1} ~= 7
