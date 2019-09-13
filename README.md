@@ -7,9 +7,9 @@ Requires the output of 3dmods model2points functions as input with the variablen
 
 ## Stretchfactor.m 
 Calculates the stretchfactor for individual filaments as shown in Figure 7.
-Requires the output of the Distances.m function as input with the variablename "GefilterteFilemente".
+Requires the output of the Distances.m function as input with the variablename "GefilterteFilamente".
 
 ## CutoffEval.m
 Calculates the difference in average linear distance for filaments for different cutoff values in regard to distance to the microtubule.
 Requires the output of 3DMODs model2points functions as input with the variablename "Points".
-Requires the output of the Distances.m function as input with the variablename "GefilterteFilemente".
+Requires the output of the Distances.m function as input with the variablename "GefilterteFilamente".
