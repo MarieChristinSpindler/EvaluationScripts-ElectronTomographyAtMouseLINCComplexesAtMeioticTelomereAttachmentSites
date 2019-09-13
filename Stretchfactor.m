@@ -1,4 +1,4 @@
-% Requires distances.m output as "GefilterteFilemente"
+% Requires distances.m output as "GefilterteFilamente"
 for i=1:size(GefilterteFilamente,2)
     Filament=GefilterteFilamente{1, i};
     x1 = Filament{1,1};
