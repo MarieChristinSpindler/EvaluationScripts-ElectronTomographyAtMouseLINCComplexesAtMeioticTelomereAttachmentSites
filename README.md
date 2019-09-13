@@ -3,7 +3,7 @@ Evaluation scripts used in our manuscript "Electron tomography of mouse LINC com
 
 ## Distances.m
 Calculates the distance measurements between filaments as shown in Figure 6.
-Requires the output of 3DMODs model2points functions as input with the variablename "input".
+Requires the output of 3dmods model2points functions as input with the variablename "input".
 
 ## Stretchfactor.m 
 Calculates the stretchfactor for individual filaments as shown in Figure 7.
